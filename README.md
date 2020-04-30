@@ -23,6 +23,16 @@ Cgroup 管理 groups 與設定各 subsystems 的使用者介面，是透過 cgro
     notify_on_release
     release_agent
     tasks
+    
+查看 tasks 內容：
+
+    # cat /cgroup/tasks
+    
+      1
+      2
+      3
+      4
+      ....
    
 備註：
 
