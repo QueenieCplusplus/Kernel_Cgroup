@@ -40,4 +40,8 @@ Cgroup 管理 groups 與設定各 subsystems 的使用者介面，是透過 cgro
 * 虛擬檔案系統：
 
   未擁有物理裝置的檔案系統。
+  
+* 刪除群組：
+
+  使用 release 
     
