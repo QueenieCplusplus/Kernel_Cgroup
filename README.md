@@ -6,7 +6,7 @@ Cgroup 管理 groups 與設定各 subsystems 的使用者介面，是透過 cgro
 
 掛載方式：
 
-    #mount -t cgoup -o debug cgroup /cgoup
+    # mount -t cgoup -o debug cgroup /cgoup
 
 
 確認方式：
