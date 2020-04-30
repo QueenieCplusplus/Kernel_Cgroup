@@ -33,6 +33,7 @@ Cgroup 管理 groups 與設定各 subsystems 的使用者介面，是透過 cgro
       3
       4
       ....
+    以上數字表示 thread 執行緒的 ID，又稱為 TID。目錄代表群組，其下 tasks 群組中的 threads 集合。
    
 備註：
 
